@@ -1,0 +1,4 @@
+#Thu Feb 28 20:31:44 ICT 2019
+base.0=/home/koompi/Documents/Create-flutter-project-on-ubuntu/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
